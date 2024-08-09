@@ -19,3 +19,4 @@ spec:
         image: shanthiyark/ultimate-cicd:22
         ports:
         - containerPort: 8080
+      ImagePullPollicy: Always  
